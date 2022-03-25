@@ -1,0 +1,1 @@
+* Has exactly one value - null. Represents an atom
