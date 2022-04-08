@@ -7,8 +7,12 @@
         "id": "b32534887fc44afb",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Functions/Closures.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Functions/Closures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "b32534887fc44afb",
   "lastOpenFiles": [
-    "Keyed Collections/KeyedCollection.md",
-    "Types/Types.md",
-    "Types/RegExp.md",
-    "Types/Function.md",
-    "Types/Array.md",
-    "Types/Null.md",
-    "Types/Date.md",
-    "General Description.md",
-    "Types/BigInt.md",
-    "Types/Propreties.md"
+    "Functions/Closures.md",
+    "OOP/Abstraction.md",
+    "TypesFolder/String.md",
+    "TypesFolder/PrimitiveTypes.md",
+    "OOP/Clasical OOP.md",
+    "OOP/Encapsulation.md",
+    "OOP/Inheritance.md",
+    "OOP/Polymorhism.md",
+    "OOP/Classes.md",
+    "General Description.md"
   ]
 }
