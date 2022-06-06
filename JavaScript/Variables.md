@@ -17,6 +17,9 @@ const Pi = 3.14; // variable Pi is set
 Pi = 1; // will throw an error because you cannot change a constant variable.
 ```
 
+
+# Use `const` when you can, and use `let` when you have to.
+
 `var` - variable avialiable from the function it is declared. Global variable;
 
 An example of scope with a variable declared with **`var`:**

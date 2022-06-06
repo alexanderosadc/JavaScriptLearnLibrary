@@ -6,3 +6,6 @@
 [[Operators]]
 [[LoopFunctions]]
 [[Clasical OOP]]
+[[Web General Knowledge]]
+[[Script Loading Strategies]]
+[[Events]]

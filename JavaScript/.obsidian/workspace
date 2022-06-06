@@ -7,9 +7,17 @@
         "id": "b32534887fc44afb",
         "type": "leaf",
         "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "4445d769552628ec",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
-            "file": "Functions/Closures.md",
+            "file": "Events/Events.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "optional",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functions/Closures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +96,15 @@
   },
   "active": "b32534887fc44afb",
   "lastOpenFiles": [
-    "Functions/Closures.md",
-    "OOP/Abstraction.md",
+    "TypesFolder/Concatenating strings.md",
+    "Events/Events.md",
+    "Web General Knowledge/JS in Browser.md",
+    "Web General Knowledge/Web General Knowledge.md",
+    "General Description.md",
+    "Events/Event Bubbling and Capture.md",
+    "Events/Event Delegation.md",
+    "Functions/Function.md",
     "TypesFolder/String.md",
-    "TypesFolder/PrimitiveTypes.md",
-    "OOP/Clasical OOP.md",
-    "OOP/Encapsulation.md",
-    "OOP/Inheritance.md",
-    "OOP/Polymorhism.md",
-    "OOP/Classes.md",
-    "General Description.md"
+    "TypesFolder/BigInt.md"
   ]
 }

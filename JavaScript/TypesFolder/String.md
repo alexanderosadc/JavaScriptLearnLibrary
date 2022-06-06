@@ -15,3 +15,55 @@ Strings in JavaScript are sequences of [Unicode characters](https://developer.mo
 'hello'.toUpperCase(); // "HELLO"
 ```
 
+# Multiline Strings
+Template literals respect the line breaks in the source code, so you can write strings that span multiple lines like this:
+
+```
+const output = `I like the song.
+I gave it a score of 90%.`;
+console.log(output);  // I like the song.
+                      // I gave it a score of 90%.
+```
+
+# Retrieving a specific string character
+```
+browserType[0];
+```
+
+```
+browserType[browserType.length-1];
+```
+
+# Testing if a string contains a substring
+```
+browserType.includes('zilla')
+```
+
+```
+browserType.startsWith('zilla')
+```
+
+```
+browserType.endsWith('zilla')
+```
+
+```
+tagline.indexOf('developers')
+```
+
+```
+const browserType = 'mozilla';
+console.log(browserType.slice(1, 4)); // "ozi"
+```
+
+```
+const browserType = 'mozilla';
+const updated = browserType.replace('moz','van');
+
+console.log(updated);      // "vanilla"
+console.log(browserType);  // "mozilla"
+```
+
+
+
+[[Concatenating strings]]
